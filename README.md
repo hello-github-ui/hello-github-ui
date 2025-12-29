@@ -1,4 +1,3 @@
-<!-- Profile-style README inspired by Image 2 -->
 <table>
   <tr>
     <!-- left column: avatar & basic info -->

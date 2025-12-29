@@ -1,13 +1,9 @@
   <h3 align="center" style="margin-top:8px;">becoming well</h3>
   <p align="center" style="color:#666; margin-top:0;">hello-github-ui</p>
-
-  <p style="font-size:14px; color:#333;">
-    往事如风，且向前看；去留随心，且藏心底。  
-  </p>
+  <p align="center" style="font-size:14px; color:#333; margin-top:0;">往事如风，且向前看；去留随心，且藏心底</p>
 
   <p style="margin-top:12px;">
-    <strong>Location:</strong><br/>
-    Switzerland
+    <strong>Location:</strong>Switzerland
   </p>
 
   <p>
@@ -15,7 +11,7 @@
     - <a href="https://hello-blogger-ui.blogspot.com/" target="\_blank">Blog</a><br/>
     - <a href="https://dashboard.render.com/" target="\_blank">Dashboard</a><br/>
     - <a href="https://hello-github-ui.github.io/mdviewer/" target="\_blank">MD Viewer</a><br/>
-    - Twitter: <a href="https://twitter.com/hello\_twitter" target="\_blank">@hello\_twitter</a>
+    - <a href="https://x.com/yuan_meng_meng" target="\_blank">twitter</a>
   </p>
 
   <p>
@@ -35,7 +31,7 @@
   <h1 style="margin-top:0;">Hi there 👋</h1>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hello-github-ui&show\_icons=true&theme=gruvbox&hide\_border=true" alt="GitHub Stats" style="max-width:560px; width:100%; border-radius:6px;" />
+    <img src="https://github-readme-stats-zeta-hazel-etlp4dlhls.vercel.app/api?username=hello-github-ui&show\_icons=true&theme=gruvbox&hide\_border=true" alt="GitHub Stats" style="max-width:560px; width:100%; border-radius:6px;" />
   </p>
 
   <h2>Resume</h2>
@@ -58,7 +54,7 @@
   <h2>Connect</h2>
   <ul>
     <li><a href="https://hello-blogger-ui.blogspot.com/" target="\_blank">Blog</a></li>
-    <li><a href="https://twitter.com/hello\_twitter" target="\_blank">Twitter</a></li>
+    <li><a href="https://x.com/yuan_meng_meng" target="\_blank">Twitter</a></li>
     <li><a href="https://hello-github-ui.github.io/mdviewer/" target="\_blank">MD Viewer</a></li>
     <li>Email: <code>hello@example.com</code> (replace with preferred contact)</li>
   </ul>
@@ -87,8 +83,6 @@
       </div>
 
       <hr/>
-
-      <p style="color:#666;">最后：如果需要我把头像、简介、工作经历替换成你提供的真实内容（或把 Email/链接更新为你的实际链接），告诉我具体文本，我会一并替你提交。</p>
     </td>
   </tr>
 </table>

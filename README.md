@@ -3,8 +3,8 @@
   <p align="center" style="color:#666; margin-top:0;">hello-github-ui</p>
   <p align="center" style="font-size:14px; color:#333; margin-top:0;">往事如风，且向前看；去留随心，且藏心底</p>
   
-  <p align="center" style>
-  <img src="./baoshangen.gif" width="160" style="border-radius:50%; display:block; margin:0 auto; animation: spin 5s linear infinite;" alt="Your Image" />
+ <p align="center" style>
+  <img src="./baoshangen_round.gif" width="160" style="border-radius:50%; display:block; margin:0 auto; height:160px; object-fit:cover;" alt="Your Image" />
 </p>
 
 

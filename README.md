@@ -2,6 +2,10 @@
   <h3 align="center" style="margin-top:8px;">becoming well</h3>
   <p align="center" style="color:#666; margin-top:0;">hello-github-ui</p>
   <p align="center" style="font-size:14px; color:#333; margin-top:0;">往事如风，且向前看；去留随心，且藏心底</p>
+  
+  <p align="center">
+  <img src="./bread-1910931__480.jpg" width="160" style="border-radius:50%; display:block; margin:0 auto;" alt="Your Image" />
+</p>
 
   <p style="margin-top:12px;">
     <strong>Location:</strong>Switzerland

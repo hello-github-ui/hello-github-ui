@@ -18,18 +18,12 @@
 主要改动点：
 - 居中大图（Hero）并限制最大宽度，避免在窄视图下溢出或在宽视图下过于宽大。
 - 将语言/统计卡 hide_border 以减少视觉噪声。
-- 使用可折叠的画廊（<details>），默认折叠以避免页面过长。
 - 画廊内图片使用 `loading="lazy"`、固定缩略图宽度（220px）并设置 `object-fit: cover`，在大多数设备上能更好地保持网格整齐。
 - 在底部给出后续优化建议（缩略图、WebP、Lightbox 等）。
 
 ---
 
-## 画廊（点击展开）
-
-<details>
-<summary>查看全部图片画廊</summary>
-
-<p></p>
+## 画廊
 
 <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
   <img src="./assets/1.jpg" alt="图片 1" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
@@ -50,8 +44,6 @@
   <img src="./assets/16.jpg" alt="图片 16" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
   <img src="./assets/17.jpg" alt="图片 17" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
 </div>
-
-</details>
 
 ---
 

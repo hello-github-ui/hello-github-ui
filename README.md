@@ -3,8 +3,8 @@
   <p align="center" style="color:#666; margin-top:0;">hello-github-ui</p>
   <p align="center" style="font-size:14px; color:#333; margin-top:0;">往事如风，且向前看；去留随心，且藏心底</p>
   
-  <p align="center">
-  <img src="./bread-1910931__480.jpg" width="160" style="border-radius:50%; display:block; margin:0 auto; animation: spin 5s linear infinite;" alt="Your Image" />
+  <p align="center" style>
+  <img src="./baoshangen.gif" width="160" style="border-radius:50%; display:block; margin:0 auto; animation: spin 5s linear infinite;" alt="Your Image" />
 </p>
 
 
@@ -88,10 +88,3 @@
         <img src="./assets/16.jpg" alt="图片 16" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
         <img src="./assets/17.jpg" alt="图片 17" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
       </div>
-
-<style>
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-</style>

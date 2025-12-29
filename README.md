@@ -1,5 +1,4 @@
-<table>
-<tr>
+
   <h3 align="center" style="margin-top:8px;">becoming well</h3>
   <p align="center" style="color:#666; margin-top:0;">hello-github-ui</p>
   <p align="center" style="font-size:14px; color:#333; margin-top:0;">往事如风，且向前看；去留随心，且藏心底</p>
@@ -84,7 +83,3 @@
         <img src="./assets/17.jpg" alt="图片 17" loading="lazy" width="220" style="object-fit:cover;border-radius:8px;" />
       </div>
 
-      <hr/>
-    </td>
-  </tr>
-</table>

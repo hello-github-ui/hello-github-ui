@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hello-github-ui&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" alt="GitHub Stats" style="max-width:520px; width:100%;"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" style="max-width:520px; width:100%;"/></a>
 
 </div>
 

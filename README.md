@@ -21,12 +21,32 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" style="max-width:520px; width:25%;"/>
-  <img src="./profile/stats.svg" alt="GitHub Stats" style="max-width:520px; width:25%;"/>
-  <img src="./profile/top-langs.svg" alt="GitHub Top Langs" style="max-width:520px; width:25%;"/>
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="GitHub Stats Tools" style="max-width:520px; width:25%;"/>
-</a>
+<table border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://git.io/streak-stats">
+        <img src="./profile/streak.svg" alt="GitHub Streak" height="195"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="./profile/stats.svg" alt="GitHub Stats" height="195"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/readme-tools/github-readme-stats">
+        <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned Repository" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 

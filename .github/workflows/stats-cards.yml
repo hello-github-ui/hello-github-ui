@@ -1,10 +1,9 @@
 name: Update README cards
 
 on:
-  push: # 推送时立即触发
-    branches:
-      - main
-      - master
+  schedule: # 每天 UTC 时间的 0 点（北京时间 8 点）自动运行一次，更新卡片数据
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:

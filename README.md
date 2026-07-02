@@ -22,9 +22,10 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-<img src="./profile/stats.svg" alt="GitHub Stats" style="max-width:520px; width:100%;"/>
-  <img src="./profile/top-langs.svg" alt="GitHub Top Langs" style="max-width:520px; width:100%;"/>
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="GitHub Stats Tools" style="max-width:520px; width:100%;"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" style="max-width:520px; width:25%;"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" style="max-width:520px; width:25%;"/>
+  <img src="./profile/top-langs.svg" alt="GitHub Top Langs" style="max-width:520px; width:25%;"/>
+  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="GitHub Stats Tools" style="max-width:520px; width:25%;"/>
 </a>
 
 </div>
